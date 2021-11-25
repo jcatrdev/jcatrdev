@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ; <b>Main</b>
 - **CPU** - AMD Ryzen 5 3600
 - **GPU** - Nvidia GTX 750 TI 2GB (Palit ver.)
-- **PSU** - Random Gold Rated PSU
+- **PSU** - Random Gold Rated PSU 700w
 - **RAM** - G.Skill RipJaws DDR4 16GB (8x2)
 - **HDD** - SeaGate Barracuda 1TB
 - **SSD** - Samsung EVO 850 120GB
