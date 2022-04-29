@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - I'm J from Planet Kild
 - I'm 2000 years old (Earth age)
 - I currently live at Philippines, Manila
-- Former developer (I used to create plugins for CS 1.6 before)
+- Former AMXX developer (I used to create plugins for CS 1.6 before)
 - I usually watch Animes, Kdramas and read Mangas in free time
